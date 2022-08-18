@@ -1,0 +1,91 @@
+.AdminPageBody {
+
+
+    background-color: #d9d9d9;
+    background-image: url(../images/background.png);
+    /* Set rules to fill background */
+    height: 100%;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 18px;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+
+}
+
+.signout_button {
+    padding: 0.5%;
+    float: right;
+}
+
+.showProduct {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+}
+
+
+
+
+.showQueries {
+    font-size: 20px;
+}
+
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.productNameContainer {
+    padding: 0.5%;
+}
+
+.productDetailsContainer {
+    padding: 0.5%;
+}
+
+.productCountContainer {
+    padding: 0.5%;
+}
+
+.productPriceContainer {
+    padding: 0.5%;
+}
+
+.productOfferContainer {
+    padding: 0.5%;
+}
+
+.productImageContainer {
+    padding: 0.5%;
+}
+
+.buttonContainer {
+    padding: 0.5%;
+}
+
+.queryIdContainer {
+    padding: 0.5%;
+
+}
+
+.searchProductContainer {
+    padding: 0.5%;
+
+}

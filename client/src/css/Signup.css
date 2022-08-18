@@ -1,0 +1,49 @@
+.SignUpTitleContainer {
+    padding: 0.5%;
+
+
+}
+
+.nameContainer {
+    padding: 0.5%;
+    display: flex;
+
+}
+
+.addressContainer {
+    padding: 0.5%;
+    display: flex;
+
+}
+
+.NIDContainer {
+    padding: 0.5%;
+    display: flex;
+
+}
+
+.phoneNumberContainer {
+    padding: 0.5%;
+    display: flex;
+
+}
+
+.emailContainer {
+    padding: 0.5%;
+    display: flex;
+}
+
+.passwordContainer {
+    padding: 0.5%;
+    display: flex;
+}
+
+.confirmPasswordContainer {
+    padding: 0.5%;
+    display: flex;
+}
+
+.buttonContainer {
+    padding: 0.5%;
+    display: flex;
+}

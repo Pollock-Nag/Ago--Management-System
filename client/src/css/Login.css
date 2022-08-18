@@ -1,0 +1,31 @@
+.LoginTitleContainer {
+    padding: 0.5%;
+
+}
+
+
+.NIDContainer {
+    padding: 0.5%;
+    display: flex;
+
+}
+
+.emailContainer {
+    padding: 0.5%;
+    display: flex;
+}
+
+.passwordContainer {
+    padding: 0.5%;
+    display: flex;
+}
+
+.confirmPasswordContainer {
+    padding: 0.5%;
+    display: flex;
+}
+
+.buttonContainer {
+    padding: 0.5%;
+    display: flex;
+}
